@@ -41,7 +41,7 @@ Start the server:
 
 
 npm start
-Open your browser and navigate to http://localhost:3000.
+Open your browser and navigate to http://localhost:5400.
 Folder Structure
 
 css/: Contains CSS files for styling.
